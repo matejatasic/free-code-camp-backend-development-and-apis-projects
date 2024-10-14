@@ -6,6 +6,10 @@
   "scripts": {
     "start": "node index.js"
   },
+  "dependencies": {
+    "express": "^4.12.4",
+    "cors": "^2.8.0"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/matejatasic/free-code-camp-backend-development-and-apis-projects.git"
