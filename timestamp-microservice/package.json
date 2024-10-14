@@ -1,0 +1,24 @@
+{
+  "name": "timestamp-microservice",
+  "version": "1.0.0",
+  "description": "An FCC Backend Challenge",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matejatasic/free-code-camp-backend-development-and-apis-projects.git"
+  },
+  "author": "Mateja Tasic",
+  "keywords": [
+    "node",
+    "express",
+    "freeCodeCamp"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/matejatasic/free-code-camp-backend-development-and-apis-projects/issues"
+  },
+  "homepage": "https://github.com/matejatasic/free-code-camp-backend-development-and-apis-projects#readme"
+}
